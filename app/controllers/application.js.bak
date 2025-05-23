@@ -1,4 +1,5 @@
 /* global requirejs */
+// needed for both ??? no //
 import Controller from '@ember/controller';
 import ENV from 'basic-app/config/environment';
 
